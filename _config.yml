@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Yifan Yuan"
 title_separator          : "-"
 name                     : &name "Yifan Yuan"
-description              : &description "personal description"
+description              : &description "Preparing to attend my graduation ceremony"
 url                      : https://acrossdanger.github.io/yifanyuan.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -24,12 +24,12 @@ author:
   # Biographic information
   avatar           : "human.png"
   name             : "Yifan Yuan"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  pronouns         : "he/him"  
+  bio              : "Final year Computer Science student focusing on AI and software development research"
   location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  employer         : "Beijing University of Posts and Telecommunications"
+  uri              : "https://acrossdanger.github.io/yifanyuan.github.io/"
+  email            : "yifanyuan@bupt.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
