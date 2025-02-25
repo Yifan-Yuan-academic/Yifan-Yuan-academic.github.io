@@ -26,7 +26,7 @@ author:
   name             : "Yifan Yuan"
   pronouns         : "he/him"  
   bio              : "Final year Computer Science student focusing on AI and software development research"
-  location         : "Earth"
+  location         : "China Beijing"
   employer         : "Beijing University of Posts and Telecommunications"
   uri              : "https://acrossdanger.github.io/yifanyuan.github.io/"
   email            : "yifanyuan@bupt.edu.cn" 
@@ -214,16 +214,16 @@ kramdown:
 # These settings control the types of collections used by the template
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
