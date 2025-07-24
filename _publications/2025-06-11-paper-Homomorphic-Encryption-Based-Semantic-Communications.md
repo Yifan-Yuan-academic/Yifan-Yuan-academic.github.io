@@ -7,7 +7,7 @@ excerpt: 'Semantic Communication, Homomorphic Encryption'
 date: 2025-07-07
 venue: 'IEEE SPAWC 2025'
 paperurl: 'https://2025.ieeespawc.org/'
-citation: 'Y. Yuan et al., "Homomorphic Encryption-Based Joint Source-Channel Coding for Semantic Communications," in Proceedings of IEEE International Workshop on Signal Processing and Artificial Intelligence for Wireless Communications (SPAWC), July 2025.'
+citation: 'Y. Yuan et al., "Homomorphic Encryption-Based Joint Source-Channel Coding for Semantic Communications," IEEE International Workshop on Signal Processing Advances in Wireless Communications (SPAWC), July 2025.'
 ---
 Semantic Communication, a key technology for 6G, prioritizes the transmission of semantic-level over bit-level precision, enabling efficient and reliable communication, especially in
 channel-capacity-limited scenarios like satellite communication. However, eavesdropping remains a significant concern, particularly when transmitting sensitive data wirelessly. To the best
