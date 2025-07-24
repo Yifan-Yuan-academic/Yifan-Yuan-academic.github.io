@@ -1,7 +1,7 @@
 ---
 title: "Homomorphic Encryption-Based Joint Source-Channel Coding for Semantic Communications"
 collection: publications
-category: conference
+category: conferences
 permalink: /publication/2025-06-11-paper-Homomorphic-Encryption-Based-Semantic-Communications
 excerpt: 'Semantic Communication, a key technology for 6G, prioritizes the transmission of semantic-level over bit-level precision, enabling efficient and reliable communication, especially in
 channel-capacity-limited scenarios like satellite communication. However, eavesdropping remains a significant concern, particularly when transmitting sensitive data wirelessly. To the best
