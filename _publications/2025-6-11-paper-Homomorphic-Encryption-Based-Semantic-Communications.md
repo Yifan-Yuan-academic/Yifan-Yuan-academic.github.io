@@ -9,6 +9,6 @@ of our knowledge, almost all existing techniques for securing semantic informati
 date: 2024-06-10
 venue: 'SPAWC'
 paperurl: 'https://ieeexplore.ieee.org/document/your-paper-number/'
-citation: 'Y. Yuan and Co-Author, "Homomorphic Encryption-Based Joint SourceChannel Coding for Semantic Communications," in Proceedings of IEEE International Workshop on Signal Processing and Artificial Intelligence for Wireless Communications (SPAWC), July 2025.'
+citation: 'Y. Yuan and Co-Author, "Homomorphic Encryption-Based Joint Source-Channel Coding for Semantic Communications," in Proceedings of IEEE International Workshop on Signal Processing and Artificial Intelligence for Wireless Communications (SPAWC), July 2024.'
 ---
 Detailed abstract of your paper here... This paper presents... The main contributions include...
