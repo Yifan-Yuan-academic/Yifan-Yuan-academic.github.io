@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2025-06-11-paper-Homomorphic-Encryption-Based-Semantic-Communications
 excerpt: 'Semantic Communication, Homomorphic Encryption'
 date: 2025-07-07
-venue: 'In IEEE SPAWC 2025'
+venue: 'IEEE SPAWC 2025'
 paperurl: 'https://2025.ieeespawc.org/'
 citation: 'Y. Yuan et al., "Homomorphic Encryption-Based Joint Source-Channel Coding for Semantic Communications," in Proceedings of IEEE International Workshop on Signal Processing and Artificial Intelligence for Wireless Communications (SPAWC), July 2025.'
 ---
