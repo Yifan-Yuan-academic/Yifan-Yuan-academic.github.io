@@ -34,4 +34,5 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 
 News
 ======
+- My paper is accepted by [IEEE SPAWC Conference](https://2025.ieeespawc.org/).
 - My paper is accepted by [Transactions on Vehicular Technology](https://ieeexplore.ieee.org/document/10887356).
