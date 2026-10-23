@@ -10,7 +10,7 @@ redirect_from:
 
 ## About Me
 
-I am a first-year PhD student in Electrical Engineering at [King's College London (KCL)](https://www.kcl.ac.uk/), supervised by Yansha Deng and based in London, United Kingdom.
+I am a first-year PhD student in Engineering at [King's College London (KCL)](https://www.kcl.ac.uk/), supervised by Yansha Deng and based in London, United Kingdom.
 
 My research interests include video compression and artificial intelligence.
 
