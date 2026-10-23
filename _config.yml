@@ -251,7 +251,7 @@ defaults:
       path: ""
       type: publications
     values:
-      layout: single
+      layout: homepage
       author_profile: true
       share: true
       comments: true
@@ -341,3 +341,14 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+# Minimal Light: vendored from yaoyao-liu/minimal-light (see THEME.md).
+position: "First-year PhD student"
+affiliation: "King's College London"
+affiliation_link: "https://www.kcl.ac.uk/"
+email: "yifanyuan@bupt.edu.cn"
+avatar: "/images/human.png"
+github_link: "https://github.com/Yifan-Yuan-academic"
+font: "Sans Serif"
+auto_dark_mode: false
+enable_footnote: true

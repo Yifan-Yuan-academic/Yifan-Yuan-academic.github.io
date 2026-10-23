@@ -1,0 +1,27 @@
+{% comment %}
+Use Minimal Light's bibliography markup with the existing publication collection.
+No paper records, authors, dates, URLs, or abstracts are rewritten here.
+{% endcomment %}
+<div class="publications">
+  <ol class="bibliography">
+    {% assign papers = site.publications | sort: "date" | reverse %}
+    {% for post in papers %}
+    <li>
+      <div class="title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></div>
+      <div class="periodical"><em>{{ post.venue }}</em>, {{ post.date | date: "%Y" }}.</div>
+      <div class="links">
+        {% if post.paperurl %}<a class="btn" href="{{ post.paperurl }}">Paper</a>{% endif %}
+        <a class="btn" href="{{ post.url | relative_url }}">Abstract</a>
+        {% if post.slidesurl %}<a class="btn" href="{{ post.slidesurl }}">Slides</a>{% endif %}
+        {% if post.bibtexurl %}<a class="btn" href="{{ post.bibtexurl }}">BibTeX</a>{% endif %}
+      </div>
+      {% if post.citation %}
+      <details>
+        <summary>Citation</summary>
+        <p>{{ post.citation }}</p>
+      </details>
+      {% endif %}
+    </li>
+    {% endfor %}
+  </ol>
+</div>

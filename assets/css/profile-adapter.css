@@ -1,0 +1,18 @@
+/* Small compatibility fixes for an existing portrait and publication collection.
+   Layout, typography and colours come from Minimal Light, not a new theme. */
+.image.avatar { margin-bottom: 20px; }
+.image.avatar img { width: 124px; height: auto; padding: 0; border-radius: 4px; }
+header nav { margin-top: 8px; }
+header nav a + a { margin-left: 18px; }
+header .location { margin-top: 8px; margin-bottom: 12px; font-size: 13px; }
+a:focus-visible, summary:focus-visible { outline: 2px solid #39c; outline-offset: 3px; }
+.publications ol.bibliography li { min-height: 0; margin-bottom: 24px; }
+.publications .periodical { margin: 6px 0 8px; }
+.publications .links a + a { margin-left: 6px; }
+.publications details { margin-top: 8px; }
+.publications summary { cursor: pointer; color: #39c; font-size: 12px; }
+.publications details p { margin: 8px 0 0; font-size: 13px; }
+.publications .title, section h2 { overflow-wrap: anywhere; }
+@media screen and (min-width: 961px) and (max-height: 720px) {
+  header { position: static; }
+}
