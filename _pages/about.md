@@ -9,7 +9,7 @@ redirect_from:
 
 I am a first-year PhD student in Electrical Engineering at [King's College London (KCL)](https://www.kcl.ac.uk/), based in London, United Kingdom.
 
-My current research focuses on practical and standards-compatible video compression, with particular interests in AI-assisted video codec integration, neural codec wrappers, enhancement-layer coding, and video quality--rate--complexity evaluation. I am especially interested in approaches that improve compression efficiency while remaining compatible with established video coding and deployment pipelines.
+My research interests include video compression and artificial intelligence.
 
 Before joining KCL, I received my Bachelor's degree in Telecommunications Engineering with First Class Honours through the joint programme between [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/) and [Queen Mary University of London (QMUL)](https://www.qmul.ac.uk/) in 2023.
 
