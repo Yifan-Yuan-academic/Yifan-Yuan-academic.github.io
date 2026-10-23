@@ -29,7 +29,7 @@ author:
   location         : "London, United Kingdom"
   employer         : "King's College London"
   uri              : "https://yifan-yuan-academic.github.io/"
-  email            : "yifanyuan@bupt.edu.cn" 
+  email            : "yifan.2.yuan@kcl.ac.uk" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -346,7 +346,7 @@ compress_html:
 position: "First-year PhD student"
 affiliation: "King's College London"
 affiliation_link: "https://www.kcl.ac.uk/"
-email: "yifanyuan@bupt.edu.cn"
+email: "yifan.2.yuan@kcl.ac.uk"
 avatar: "/images/human.png"
 github_link: "https://github.com/Yifan-Yuan-academic"
 font: "Sans Serif"
